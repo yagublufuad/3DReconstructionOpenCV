@@ -1,4 +1,4 @@
-"# 3DReconstructionOpenCV" 
+# 3D Reconstruction using OpenCV 
 This repository is designed to build single-view point clouds from a well-calibrated stereo camera system using the OpenCV library. Single and stereo camera calibration which is an important step of 3D reconstruction is also documented here. We are using OpenCV to perform calibration of single and stereo cameras. Camera calibration is already a well-documented process in different resources. However, the scripts in this repository enable working with the RAW image files alongside the standard JPG images.
 
 ## Usage
